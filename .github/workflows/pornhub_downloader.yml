@@ -12,7 +12,7 @@ on:
         required: false
         type: string
         default: 'downloads'
-     video_quality:
+      video_quality:
         description: 'Max video resolution to download'
         required: false
         type: choice
