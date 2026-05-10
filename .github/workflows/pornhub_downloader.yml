@@ -25,7 +25,6 @@ on:
           - '144'
           - 'best'
         default: '1080 (Full HD)'
-
       audio_quality:
         description: 'Audio bitrate — applies to MP3 downloads'
         required: false
